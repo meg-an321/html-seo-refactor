@@ -5,9 +5,8 @@
 
 
 
-The motive of this project was to replace the div elements and replacing them with semantic elements. Resized all images for optimal speed.
-3. What problem did I solve?
-4. What did I learn?
+The motive of this project was to replace the div elements and replacing them with semantic elements. Optimized original CSS to help reduce cost for client. Resized all images for optimal speed.
+Throught this project I am now knowledgeable on once approaching a website with slow speed or glitches I now understand that this is due to too large of image size, and repeats in CSS. 
 
 ```md
 ![alt text](assets/images/screenshot.png)
