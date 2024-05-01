@@ -5,7 +5,7 @@
 
 
 
-The motive of this project was to replace the <div> elements and replacing them with semantic elements.
+The motive of this project was to replace the <div> elements and replacing them with semantic elements. Resized all images for optimal speed.
 3. What problem did I solve?
 4. What did I learn?
 
